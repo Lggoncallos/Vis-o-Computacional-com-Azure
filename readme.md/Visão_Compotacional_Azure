@@ -1,0 +1,31 @@
+
+Visão Computacional com Azure
+Este é um guia básico sobre como utilizar três técnicas de Visão Computacional oferecidas pelo Azure: extração de texto de imagens, detecção de rostos em uma imagem e adição de legendas a imagens.
+
+Funcionalidades Principais:
+Extração de Texto de Imagens (OCR):
+
+Esta funcionalidade permite extrair texto de imagens, útil para digitalização de documentos, tradução automática e reconhecimento de placas de veículos.
+Utilize esta técnica para melhorar a acessibilidade em aplicativos ao converter texto em imagens para texto legível por máquina.
+Detecção de Rostos em uma Imagem:
+
+A detecção de rostos em imagens identifica e localiza rostos humanos, utilizando algoritmos de aprendizado de máquina.
+Pode ser empregada em sistemas de segurança, análise de emoções e identificação de pessoas em fotos.
+Adição de Legendas a Imagens:
+
+Esta funcionalidade envolve a geração de legendas relevantes para imagens, baseadas em seu conteúdo.
+Utilize-a para melhorar a acessibilidade, fornecendo descrições de imagens para pessoas com deficiência visual, ou para melhorar a indexação e a pesquisa de imagens na web.
+Como Usar:
+Configuração do Azure:
+
+Certifique-se de ter uma conta no Azure e acesso aos serviços de Visão Computacional.
+Siga as instruções de configuração e obtenha as credenciais necessárias para utilizar os serviços.
+Integração com Seu Aplicativo:
+
+Utilize as APIs fornecidas pelo Azure para integrar as funcionalidades de Visão Computacional em seu aplicativo.
+Consulte a documentação do Azure para obter informações detalhadas sobre como chamar cada serviço e processar os resultados.
+Teste e Ajuste:
+
+Experimente diferentes imagens e ajuste os parâmetros conforme necessário para obter os resultados desejados.
+Lembre-se de considerar a qualidade da imagem, o tamanho do texto e outros fatores que podem afetar a precisão e o desempenho dos serviços.
+

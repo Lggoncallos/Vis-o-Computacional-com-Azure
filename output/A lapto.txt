@@ -1,0 +1,23 @@
+{A laptop with a colorful screen}
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
+
+{
+  "apim-request-id": "1df9cdd4-9663-42f0-9c82-6580f1ff9b7a",
+  "content-length": "159",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a laptop with a colorful screen",
+    "confidence": 0.625028669834137
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  }
+}
